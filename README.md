@@ -14,7 +14,7 @@ Construo aplicações web, APIs, SaaS, dashboards e soluções que resolvem prob
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITAS%20AO%20PERFIL&color=0d6efd&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=CarloNascimento&label=VISITAS%20AO%20PERFIL&color=0d6efd&style=for-the-badge"/>
 
 </div>
 
