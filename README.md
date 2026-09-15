@@ -135,29 +135,9 @@ Busco criar soluções que sejam **organizadas, escaláveis, intuitivas e fácei
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO/PROJETO_1">
+<a href="https://github.com/CarloNascimento/control-syciot">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_1&theme=github_dark&hide_border=true"/>
 </a>
-
-<a href="https://github.com/SEU_USUARIO/PROJETO_2">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_2&theme=github_dark&hide_border=true"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO/PROJETO_3">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_3&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/SEU_USUARIO/PROJETO_4">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_4&theme=github_dark&hide_border=true"/>
-</a>
-
-</div>
 
 ---
 
@@ -165,9 +145,9 @@ Busco criar soluções que sejam **organizadas, escaláveis, intuitivas e fácei
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarloNascimento&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloNascimento&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -175,7 +155,7 @@ Busco criar soluções que sejam **organizadas, escaláveis, intuitivas e fácei
 
 <div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=CarloNascimento&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -185,7 +165,7 @@ Busco criar soluções que sejam **organizadas, escaláveis, intuitivas e fácei
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact&hide_border=true&area=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=CarloNascimento&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
 
