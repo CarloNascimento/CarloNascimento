@@ -1,253 +1,81 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=CARLOS%20GABRIEL&fontSize=55&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%2F%2F%20JAVASCRIPT%20ECOSYSTEM&descAlignY=62&animation=fadeIn&color=0:050505,50:0d1117,100:161b22&fontColor=58a6ff&descSize=18"/>
+# Carlos Gabriel
+### Desenvolvimento Full Stack · Aplicações web · Aprendizado contínuo
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=%3E+Inicializando+perfil...;%3E+Full+Stack+Developer;%3E+JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;%3E+Transformando+ideias+em+produtos+reais.;%3E+Build.+Ship.+Improve."/>
+Da interface ao banco de dados, construindo e aprendendo com projetos.
 
-<br/>
-
-### `> Olá, mundo. Eu sou Carlos Gabriel.`
-
-**Desenvolvedor Full Stack especializado no ecossistema JavaScript/TypeScript.**
-
-Construo aplicações web, APIs, SaaS, dashboards e soluções que resolvem problemas reais.
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=CarloNascimento&label=VISITAS%20AO%20PERFIL&color=0d6efd&style=for-the-badge"/>
+[Explorar projetos](#projetos-em-destaque) · [Tecnologias](#tecnologias) · [Ver repositórios](https://github.com/CarloNascimento?tab=repositories)
 
 </div>
 
 ---
 
-# `01 // SOBRE MIM`
+## Sobre mim
 
-```javascript
-const CarlosGabriel = {
-    cargo: "Full Stack Developer",
+Sou **Carlos Gabriel Alves Nascimento**. Meu foco é desenvolvimento web Full Stack, com interesse no ecossistema **JavaScript e TypeScript** e projetos que também exploram **PHP, Laravel, MySQL e Docker**.
 
-    especialidade: "Ecossistema JavaScript / TypeScript",
+Gosto de entender como as partes de uma aplicação se conectam: interface, regras de negócio, dados e ambiente de execução. Uso este espaço para compartilhar projetos, estudos e a evolução do meu trabalho.
 
-    stackPrincipal: {
-        frontend: ["React", "Next.js", "TypeScript"],
-        backend: ["Node.js", "Express", "REST APIs"],
-        database: ["PostgreSQL", "MySQL", "MongoDB"],
-    },
+> Código claro, interfaces intuitivas e aprendizado colocado em prática.
 
-    experienciaCom: [
-        "SaaS",
-        "Dashboards",
-        "APIs",
-        "Autenticação",
-        "Integrações",
-        "Automação",
-        "Sistemas corporativos"
-    ],
+## Tecnologias
 
-    estudandoAgora: [
-        "Arquitetura de Software",
-        "Escalabilidade",
-        "Cloud",
-        "DevOps",
-        "Inteligência Artificial"
-    ],
+**Foco de desenvolvimento**
 
-    filosofia: "Não basta funcionar. Tem que ser bem construído."
-};
-```
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-171717?style=flat-square&logo=nextdotjs&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
 
-Minha área principal é desenvolvimento **Full Stack**, trabalhando desde a interface até backend, banco de dados, integrações e deploy.
+**Também presentes nos meus projetos e estudos**
 
-Gosto principalmente de criar produtos completos: sair de uma ideia, estruturar a solução, desenvolver e colocar funcionando em produção.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+
+## Projetos em destaque
+
+### 01 — CRUD de produtos
+**PHP · MySQL · Docker Compose**
+
+Aplicação acadêmica para cadastrar, listar, editar e excluir produtos. Explora a comunicação entre aplicação e banco em containers separados, além da persistência de dados com volumes.
+
+[Explorar código e instruções de execução →](https://github.com/CarloNascimento/CRUD-DOCKER#readme)
+
+### 02 — Produtos e itens com Laravel
+**Laravel · PHP · MySQL · Blade**
+
+Projeto acadêmico com produtos e seus itens relacionados. Reúne migrations, models, controllers e páginas de listagem para praticar a organização de uma aplicação Laravel.
+
+[Explorar repositório →](https://github.com/CarloNascimento/trabalho-laravael) · [Consultar documentação →](https://github.com/CarloNascimento/trabalho-laravael/blob/main/trabalho-laravel/README.md)
+
+### 03 — Fluxo Kanban para uma clínica
+**Kanban · Limites de WIP · Organização de demandas**
+
+Estudo de gestão do trabalho usando um sistema de agendamento como cenário. Documenta etapas de entrega, políticas do quadro, limites de trabalho em andamento e tratamento de impedimentos.
+
+[Conhecer o estudo →](https://github.com/CarloNascimento/KABAN-SISTEMA-DE-AGENDAMENTO-DE-CONSULTAS#readme)
 
 ---
 
-# `02 // STACK`
+## Em evolução
+
+- Aprofundar conhecimentos em arquitetura e organização de aplicações.
+- Aprimorar a integração entre frontend, backend e banco de dados.
+- Explorar infraestrutura, automação e novas formas de construir produtos.
+- Documentar decisões e tornar os projetos mais fáceis de entender.
+
+## Explore meu trabalho
+
+Os repositórios reúnem código, exercícios e documentação. Para executar um projeto, consulte os requisitos e as instruções no README correspondente.
+
+**[Ver todos os repositórios no GitHub →](https://github.com/CarloNascimento?tab=repositories)**
 
 <div align="center">
 
-### `FRONTEND`
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,html,css,tailwind,bootstrap&theme=dark"/>
-
-<br/><br/>
-
-### `BACKEND`
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,cs,python&theme=dark"/>
-
-<br/><br/>
-
-### `DATABASE`
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase&theme=dark"/>
-
-<br/><br/>
-
-### `DEV TOOLS`
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,npm,vercel,linux&theme=dark"/>
-
-</div>
-
----
-
-# `03 // O QUE EU DESENVOLVO`
-
-```text
-╭─────────────────────────────────────────────────────────╮
-│                                                         │
-│   ⚡  Aplicações Full Stack                             │
-│   🌐  Plataformas Web                                   │
-│   💻  Sistemas SaaS                                     │
-│   🔌  APIs REST                                         │
-│   📊  Dashboards e sistemas gerenciais                  │
-│   🔐  Autenticação e controle de acesso                 │
-│   🗄️  Integrações com bancos de dados                  │
-│   🔗  Integrações com APIs externas                     │
-│   🤖  Automação e Inteligência Artificial               │
-│                                                         │
-╰─────────────────────────────────────────────────────────╯
-```
-
----
-
-# `04 // MENTALIDADE`
-
-```bash
-carlos@developer:~$ cat mindset.txt
-
-> código limpo
-> arquitetura simples
-> produto funcional
-> experiência de usuário
-> melhoria contínua
-> aprender construindo
-```
-
-Não gosto de desenvolver apenas para "funcionar".
-
-Busco criar soluções que sejam **organizadas, escaláveis, intuitivas e fáceis de manter**.
-
----
-
-# `05 // PROJETOS EM DESTAQUE`
-
-<div align="center">
-
-<a href="https://github.com/CarloNascimento/control-syciot">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_1&theme=github_dark&hide_border=true"/>
-</a>
-
----
-
-# `06 // GITHUB ANALYTICS`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarloNascimento&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloNascimento&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=CarloNascimento&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# `07 // ATIVIDADE`
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=CarloNascimento&theme=github-compact&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# `08 // STATUS`
-
-```typescript
-interface DeveloperStatus {
-    trabalhando: boolean;
-    estudando: boolean;
-    construindo: boolean;
-    desistindo: boolean;
-}
-
-const status: DeveloperStatus = {
-    trabalhando: true,
-    estudando: true,
-    construindo: true,
-    desistindo: false
-};
-```
-
----
-
-# `09 // ATUALMENTE`
-
-```text
-STATUS DO SISTEMA
-────────────────────────────────────────────
-
-[████████████████████████] JavaScript
-[██████████████████████░░] TypeScript
-[██████████████████████░░] React
-[█████████████████████░░░] Next.js
-[█████████████████████░░░] Node.js
-
-> Expandindo conhecimentos em arquitetura.
-> Construindo aplicações reais.
-> Aprimorando backend e infraestrutura.
-> Explorando aplicações de IA em produtos.
-
-────────────────────────────────────────────
-SYSTEM STATUS: ONLINE
-```
-
----
-
-# `10 // CONECTE-SE COMIGO`
-
-<div align="center">
-
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Carlos_Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="SEU_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-ACESSAR-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-CONTATO-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-
-```text
-┌───────────────────────────────────────────────────┐
-│                                                   │
-│     BUILD  →  SHIP  →  LEARN  →  IMPROVE         │
-│                                                   │
-└───────────────────────────────────────────────────┘
-```
-
-### `while (alive) { learn(); build(); improve(); }`
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:161b22,50:0d1117,100:050505"/>
+<sub>Construir · Aprender · Melhorar</sub>
 
 </div>
