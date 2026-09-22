@@ -38,26 +38,24 @@ Gosto de entender como as partes de uma aplicação se conectam: interface, regr
 
 ## Projetos em destaque
 
-### 01 — CRUD de produtos
+### 01 — Controle de CIOT
+Sistema desenvolvido para apoiar o controle e a organização de operações relacionadas a CIOT, reunindo o projeto em uma solução prática voltada à rotina operacional.
+
+[Explorar projeto →](https://github.com/CarloNascimento/CONTRO-DE-CIOT)
+
+### 02 — CRUD de produtos
 **PHP · MySQL · Docker Compose**
 
 Aplicação acadêmica para cadastrar, listar, editar e excluir produtos. Explora a comunicação entre aplicação e banco em containers separados, além da persistência de dados com volumes.
 
 [Explorar código e instruções de execução →](https://github.com/CarloNascimento/CRUD-DOCKER#readme)
 
-### 02 — Produtos e itens com Laravel
-**Laravel · PHP · MySQL · Blade**
+### 03 — Acampamento Selvagem
+**React · JavaScript · Hooks**
 
-Projeto acadêmico com produtos e seus itens relacionados. Reúne migrations, models, controllers e páginas de listagem para praticar a organização de uma aplicação Laravel.
+Projeto desenvolvido em React, explorando componentes, gerenciamento de estado e hooks em uma aplicação interativa.
 
-[Explorar repositório →](https://github.com/CarloNascimento/trabalho-laravael) · [Consultar documentação →](https://github.com/CarloNascimento/trabalho-laravael/blob/main/trabalho-laravel/README.md)
-
-### 03 — Fluxo Kanban para uma clínica
-**Kanban · Limites de WIP · Organização de demandas**
-
-Estudo de gestão do trabalho usando um sistema de agendamento como cenário. Documenta etapas de entrega, políticas do quadro, limites de trabalho em andamento e tratamento de impedimentos.
-
-[Conhecer o estudo →](https://github.com/CarloNascimento/KABAN-SISTEMA-DE-AGENDAMENTO-DE-CONSULTAS#readme)
+[Explorar projeto →](https://github.com/CarloNascimento/Acampamento-Selvagem)
 
 ---
 
